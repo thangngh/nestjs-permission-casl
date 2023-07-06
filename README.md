@@ -1,13 +1,11 @@
-<!-- generate migration -->
 
+# generate migration 
 yarn or npm run migration:generate src/config/database/migrations/name-migration
 
-<!-- run migration -->
-
+ # run migration
 yarn or npm run migration:run
 
-<!-- seeder -->
-
+# seeder
 yarn or npm run make:seed
 
 #buy me coffee
